@@ -188,3 +188,8 @@
   width: 150px;
   border-radius: 50%;
 }
+@media (min-width: 60em) and (max-width: 80em) {
+  body {
+    background-color: rgb(73, 99, 172);
+  } 
+  
